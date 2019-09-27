@@ -4,11 +4,11 @@ wider face验证集的测评代码
 一、生成预测结果  
 生成以下预测结果：  
 ```python
--- 0--Parade
--- 0_Parade_marchingband_1_20.txt
--- 0_Parade_marchingband_1_74.txt
-
--- 1--Handshaking
+ 0--Parade
+ 0_Parade_marchingband_1_20.txt
+ 0_Parade_marchingband_1_74.txt
+ ...
+ 1--Handshaking
 ```
 其中，0--Parade是不同场景的文件夹，wider face总共有61种场景，0_Parade_marchingband_1_20.txt是对应某个图片的预测结果，其具有以下格式：  
 ```python
